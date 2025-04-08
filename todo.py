@@ -112,6 +112,6 @@ def main():
         else:
             print("Invalid choice, please try again.")
 
-"""Entry Point check is script being run directly?"""
+"""Entry Point check is script being run directly? """
 if __name__ == "__main__":
     main()

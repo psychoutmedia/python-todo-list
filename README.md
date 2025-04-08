@@ -7,4 +7,4 @@ REMOVE TODO
 EDIT TODO
 SAVE AND EXIT
 
-persistent Storage between sessions
+Persistent Storage between sessions
