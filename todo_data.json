@@ -1,10 +1,10 @@
 [
     {
-        "task": "Cycle to work",
+        "task": "Cycle Home",
         "completed": false
     },
     {
-        "task": "Walk the Dog",
-        "completed": false
+        "task": "Walk the Cat",
+        "completed": true
     }
 ]
